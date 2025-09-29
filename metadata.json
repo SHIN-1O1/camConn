@@ -1,0 +1,5 @@
+{
+  "name": "CamConn",
+  "description": "A mini social media app similar to Instagram, built with React and Firebase. Users can sign up, log in, upload posts with images and captions, view a feed of all posts, and interact with posts by liking and commenting. It also features user profiles that can be edited.",
+  "requestFramePermissions": []
+}
